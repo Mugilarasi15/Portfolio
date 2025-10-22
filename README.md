@@ -4,7 +4,7 @@ Welcome to my personal portfolio website! This project showcases my skills, expe
 
 ## 🔗 Live Demo
 You can view my portfolio online here:  
-[Portfolio Link](https://yourusername.github.io/your-repo-name/)
+https://mugilarasi15.github.io/Portfolio//)
 
 ## 📂 Project Structure
 - `index.html` – Main HTML file containing all sections: Home, About, Internship, Projects, Contact.  
